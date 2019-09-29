@@ -2,6 +2,7 @@
 
 h1 {
     font-family: 'Cinzel', serif;
+    border: 5px solid red;
 }
 
 body {
