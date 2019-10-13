@@ -21,8 +21,8 @@ body {
 
 
 .navbar a:hover {
-    backround-color: color:#FFFFFF;
-    colors: #A4A4A4;
+    backround-color: #FFFFFF;
+    color: #A4A4A4;
 }
 
 .navbar a.active {
