@@ -8,6 +8,8 @@ h1 {
 body {
     color: #ec0505;
     background-image: url("D62017A3-F73F-42EC-8F21-AB427CDABD5D.jpeg");
+    backround-repeat; no-repeat;
+    backround-position: center;
 }
 .navbar a {
     float:left;
