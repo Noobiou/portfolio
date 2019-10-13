@@ -9,3 +9,20 @@ body {
     color: #ec0505;
     background-image: url("9F90C72E-9A53-41DF-B8B9-29B7537F3282.jpeg");
 }
+.navbar a {
+    float:left;
+    color:#04EE24;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+
+.navbar a:hover {
+    backround-color: color:#FFFFFF;
+    colors: #A4A4A4;
+    
+    
+    
+    
+       
