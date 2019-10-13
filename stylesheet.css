@@ -22,7 +22,11 @@ body {
     backround-color: color:#FFFFFF;
     colors: #A4A4A4;
 }
-    
+
+.navbar a.active {
+    backround-color: #FFFFFF;
+    color:#58FAAC;
+}
     
     
        
