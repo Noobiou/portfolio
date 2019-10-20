@@ -8,9 +8,14 @@ h1 {
 body {
     color: #ec0505;
     background-image: url("D62017A3-F73F-42EC-8F21-AB427CDABD5D.jpeg");
-    backround-repeat: no-repeat;
-    backround-position: center;
-    backround-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #35ffd3;
 }
 .navbar a {
     float:left;
@@ -24,12 +29,12 @@ body {
 
 
 .navbar a:hover {
-    backround-color: #FFFFFF;
+    background-color: #FFFFFF;
     color: #A4A4A4;
 }
 
 .navbar a.active {
-    backround-color: #9AFE2E;
+    background-color: #9AFE2E;
     color:#58FAAC;
 }
 
