@@ -10,7 +10,7 @@ body {
     background-image: url("D62017A3-F73F-42EC-8F21-AB427CDABD5D.jpeg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 
 .navbar {
