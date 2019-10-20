@@ -2,7 +2,7 @@
 
 h1 {
     font-family: 'Cinzel', serif;
-    border: 5px solid red;
+    border: 5px solid Red;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 .navbar {
     overflow: hidden;
     background-color: #35ffd3;
-    border: 3px inset aqua;
+    border: 3px inset Aqua;
 }
 .navbar a {
     float:left;
